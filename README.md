@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NVTI Baddeagama in sri lanka**
 
-- 👨‍💻 All of my projects are available at [lahiru.epizy.com](lahiru.epizy.com)
+- 👨‍💻 All of my projects are available at http://lahiru.epizy.com/
 
 - 📫 How to reach me **lprabodha98@gmail.com**
 
