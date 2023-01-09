@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Lahiru Prabodha</h1>
 <h3 align="center">Web developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lprabodha&label=Profile%20views&color=0e75b6&style=flat" alt="lprabodha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lprabodha" alt="lprabodha" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/lprabodha1998" target="blank"><img src="https://img.shields.io/twitter/follow/lprabodha1998?logo=twitter&style=for-the-badge" alt="lprabodha1998" /></a> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Lprabodha?tab=repositories](https://github.com/Lprabodha?tab=repositories)
+
+- 💬 Ask me about **Laravel, Vue js, Php**
+
 - 📫 How to reach me **lprabodha1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lprabodha1998" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lprabodha1998" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lahiru-prabodha-368a18191/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lahiru-prabodha-368a18191/" height="30" width="40" /></a>
-<a href="https://medium.com/@lprabodha1998" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lprabodha1998" height="30" width="40" /></a>
+<a href="https://twitter.com/lprabodha1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lprabodha1998" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lahiru-prabodha-368a18191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lahiru-prabodha-368a18191/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18734739/lahiru-prabodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18734739/lahiru-prabodha" height="30" width="40" /></a>
+<a href="https://medium.com/@lprabodha1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lprabodha1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
