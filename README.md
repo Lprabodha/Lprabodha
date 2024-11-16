@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lprabodha?tab=repositories](https://github.com/Lprabodha?tab=repositories)
 
-- 💬 Ask me about **Laravel, Vue js, Php**
+- 💬 Ask me about **Laravel, Vue js, Php ,Node Js**
 
 - 📫 How to reach me **lprabodha1998@gmail.com**
 
